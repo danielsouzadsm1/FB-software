@@ -6,7 +6,7 @@ const stats = [
   { value: "Direto", label: "Atendimento Humanizado" },
   { value: "Inovação", label: "Stack Tecnológico" },
   { value: "99%", label: "Uptime garantido" },
-  { value: "Segurança", label: "Proteção de Dados" },
+  { value: "Escalável", label: "Arquitetura de Software" },
 ];
 
 const highlights = [
@@ -44,7 +44,7 @@ const About = () => {
             </ul>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 mt-8 lg:mt-14">
+          <div className="grid grid-cols-2 gap-3 mt-8 lg:mt-13">
             {stats.map((stat) => (
               <div key={stat.label} className="card-glass rounded-xl p-6 text-center hover-lift">
                 <div className="font-display text-3xl md:text-4xl font-bold text-gradient mb-1">

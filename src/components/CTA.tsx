@@ -16,7 +16,9 @@ const CTA = () => {
               Entre em contato e descubra como podemos acelerar os resultados do seu negócio com tecnologia de ponta.
             </p>
             <a
-              href="mailto:contato@fbsoftware.com.br"
+              href="https://www.instagram.com/daniels.menezes/"
+              target="_blank"
+              rel="noopener noreferrer" 
               className="group inline-flex items-center gap-2 rounded-lg bg-primary px-8 py-4 text-sm font-semibold text-primary-foreground transition-all hover:opacity-90 glow-primary"
             >
               Fale com a gente
