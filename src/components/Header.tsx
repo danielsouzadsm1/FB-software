@@ -15,7 +15,7 @@ const Header = () => {
       <div className="container mx-auto flex h-16 items-center justify-between px-4 md:px-8">
         <a href="#inicio" className="flex items-center">
           <img 
-            src="/fb_lobo.png" 
+            src="/fb_logo_header.png" 
             alt="Logo FB Software" 
             className="h-8 md:h-10 w-auto object-contain" 
           />

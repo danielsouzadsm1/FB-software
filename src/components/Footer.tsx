@@ -6,9 +6,11 @@ const Footer = () => {
       <div className="container mx-auto px-4 md:px-8">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
-            <span className="font-display text-lg font-bold">
-              <span className="text-gradient">FB</span> Software
-            </span>
+              <img 
+                  src="/fb_logo_footer.png" 
+                  alt="FB Software Logo" 
+                  className="h-9 w-auto object-contain -ml-2"
+                />
             <p className="text-xs text-muted-foreground mt-1">
               Tecnologia que transforma negócios.
             </p>
