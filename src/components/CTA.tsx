@@ -19,7 +19,7 @@ const CTA = () => {
               href="https://www.instagram.com/daniels.menezes/"
               target="_blank"
               rel="noopener noreferrer" 
-              className="group inline-flex items-center gap-2 rounded-lg bg-primary px-8 py-4 text-sm font-semibold text-primary-foreground transition-all hover:opacity-90 glow-primary"
+              className="group inline-flex items-center gap-2 rounded-lg bg-[#1DD6BF] px-8 py-4 text-sm font-semibold text-primary-foreground transition-all hover:opacity-90 glow-primary"
             >
               Fale com a gente
               <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" />
